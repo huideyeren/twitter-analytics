@@ -1,5 +1,4 @@
-# A sample Gemfile
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# gem "rails"
-gem 'thor'
+# Specify your gem's dependencies in twitter-analytics.gemspec
+gemspec
